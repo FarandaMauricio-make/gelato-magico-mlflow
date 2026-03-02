@@ -52,8 +52,6 @@ O MLflow foi utilizado para:
 
 ### 📸 Prints do Experimento
 
-## 📸 Prints do Experimento
-
 ### Training Runs
 ![Training Runs](images/training_runs.png)
 
