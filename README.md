@@ -98,12 +98,3 @@ Fazer deploy em ambiente cloud
 Criar dashboard para visualização das previsões
 
 ---
-
-# 📌 Agora faça:
-
-No terminal:
-
-```bash
-git add README.md
-git commit -m "Adicionando README do projeto"
-git push
