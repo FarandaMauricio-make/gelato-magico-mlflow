@@ -52,11 +52,16 @@ O MLflow foi utilizado para:
 
 ### 📸 Prints do Experimento
 
-(ADICIONE AQUI OS PRINTS)
+## 📸 Prints do Experimento
 
-- Tela de Training Runs
-- Tela de Métricas
-- Tela de Artefatos (model.joblib)
+### Training Runs
+![Training Runs](images/training_runs.png)
+
+### Métricas
+![Metrics](images/metrics.png)
+
+### Artefatos
+![Artifacts](images/artifacts.png)
 
 ---
 
